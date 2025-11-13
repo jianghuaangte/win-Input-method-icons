@@ -1,2 +1,8 @@
 # win-Input-method-icons
-Windows系统自带的输入法图标
+Windows系统自带的输入法图标  
+[提取工具](https://www.angusj.com/resourcehacker/reshacker_setup.exe)
+## win10
+提取位置  
+C:\Windows\System32\InputMethod\CHS\ChsIME.exe  
+C:\Windows\System32\InputMethod\SHARED\ResourceDll.dll  
+
